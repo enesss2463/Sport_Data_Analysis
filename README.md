@@ -43,6 +43,6 @@ Projede iki farklı algoritma karşılaştırmalı olarak kullanılmıştır:
 
 ## Model Sonuçları:
 
-Random Forest Accuracy: %86 
+Random Forest Accuracy: %87
 
-Decision Tree Accuracy: %72
+Decision Tree Accuracy: %79
