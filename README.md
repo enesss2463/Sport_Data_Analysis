@@ -12,19 +12,19 @@ Modelin başarısını artırmak için aşağıdaki 13 farklı ölçeklendirme v
 
 Normalizasyon & Ölçeklendirme:
 
--Max Normalization (Max Scaling)
+-Max Normalization
 
 -Min-Max Normalization
 
 -Mean Normalization
 
--Z-Score Normalization (Standardization)
+-Z-Score Normalization
 
 -Robust Scaling
 
 -Norm Ölçeklendirmeleri:
 
--L1, L2 ve L∞ (L-sonsuz) Norm Ölçeklendirme
+-L1, L2 ve L∞  Norm Ölçeklendirme
 
 -Dönüşümler (Transformations):
 
